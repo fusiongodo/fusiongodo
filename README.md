@@ -1,8 +1,6 @@
 ## Hi there 👋  
 
-I’m Alex 👋 – a software engineer and (soon) B.Sc. in Applied Computer Science, now also pursuing a B.Sc. in Electrical Engineering.  
-I focus on backend development and data science (yes, that sometimes means using Python 😒).  
-My projects range from CNN-based object detection and data analytics to REST APIs, e-commerce, and web development.  
+I’m Alex 👋 – a software engineer and (soon) B.Sc. in Applied Computer Science, now also pursuing a B.Sc. in Electrical Engineering. I focus on backend development and data science (yes, that sometimes means using Python 😒). My projects range from CNN-based object detection and data analytics to REST APIs, e-commerce, and web development.  
 
 💻 **Languages & Tools:** Java, Kotlin, C#, Python, TypeScript  
 
