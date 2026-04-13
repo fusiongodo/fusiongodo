@@ -11,7 +11,7 @@ I’m a software engineer and Applied Computer Science student. My project histo
 **💻 Tech Stack & Tools**
 * **Backend & Architecture:** Kotlin, Java, Spring Boot, Clean Architecture, REST APIs
 * **Data Science & Vision:** Python, PyTorch, CNNs, YOLO, Feature Extraction
-* **Other Experience:** E-commerce platforms, CAD modeling (Onshape)
+* **Other Experience:** E-commerce platforms, CAD modeling (Onshape, Fusion360)
 
 **🌱 Hardware & Side Quests**
 * **[CAD Piano Action Model](https://cad.onshape.com/documents/4994fbaba6b4f3301bd2e14c/w/29d3d8b42a5a75896c7a0f79/e/ce2182447249ecf86ebb8a7f):** A scaled 3D-printed piano action modeled in Onshape, inspired by Greg Zweigle’s Open Hybrid Piano, designed to adapt to different hand sizes.
